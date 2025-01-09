@@ -1,4 +1,4 @@
-# Schoolwork-process-synchronization
+# Assignment-process-synchronization
 
 ## What is this/这个项目是什么
 
